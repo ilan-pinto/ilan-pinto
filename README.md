@@ -3,7 +3,7 @@ Leads the Cloud-Native team at Red Hat,
 The cloud-Native team specializes in the development, deployment,
 and architecture of hybrid cloud-native software development using the Red-Hat portfolio
 
-ask me about Software Architecture, Hybrid cloud solutions, python, go and cooking 
+ask me about Software Architecture, Hybrid cloud solutions, Python, Go and cooking 
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ilan-pinto&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
