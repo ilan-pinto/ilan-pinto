@@ -5,6 +5,12 @@ and architecture of hybrid cloud-native software development using the Red-Hat p
 
 Ask me about Software Architecture, Hybrid cloud solutions, Python, Go and cooking 
 
+# Atricels 
+[Broadcasting from microservices on Kubernetes](https://developers.redhat.com/articles/2021/10/22/broadcasting-microservices-kubernetes)
+
+# Podcasts 
+
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ilan-pinto&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ilan-pinto&theme=blue-green&hide_border=false)<br/>
