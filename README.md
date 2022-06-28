@@ -6,15 +6,15 @@ and architecture of hybrid cloud-native software development using the Red-Hat p
 Ask me about Software Architecture, Hybrid cloud solutions, Python, Go and cooking 
 
 # Atricels 
-[Broadcasting from microservices on Kubernetes](https://developers.redhat.com/articles/2021/10/22/broadcasting-microservices-kubernetes)
-[Code Review — The Awakening](https://levelup.gitconnected.com/code-review-the-awakening-43e6ebfc024f)
-[Five Tips for managing remote teams](https://levelup.gitconnected.com/five-tips-for-managing-remote-teams-cdf7681b8fb8)
-[Software Engineering Career Path 101](https://medium.com/geekculture/software-engineering-career-path-101-f17699e6176)
+- [Broadcasting from microservices on Kubernetes](https://developers.redhat.com/articles/2021/10/22/broadcasting-microservices-kubernetes)<br/>
+- [Code Review — The Awakening](https://levelup.gitconnected.com/code-review-the-awakening-43e6ebfc024f)<br/>
+- [Five Tips for managing remote teams](https://levelup.gitconnected.com/five-tips-for-managing-remote-teams-cdf7681b8fb8)<br/>
+- [Software Engineering Career Path 101](https://medium.com/geekculture/software-engineering-career-path-101-f17699e6176)<br/>
 
 
 
 # Podcasts 
-[Kod Pautach  managing remote teams following the open sourece way (HE)](https://open.spotify.com/episode/5owAC0ZKQZRH23yjBr0BAP)
+- [Kod Pautach  managing remote teams following the open sourece way (HE)](https://open.spotify.com/episode/5owAC0ZKQZRH23yjBr0BAP)
 
 
 # 📊GitHub Stats :
