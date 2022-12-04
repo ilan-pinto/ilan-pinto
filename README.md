@@ -14,6 +14,7 @@ Ask me about Software Architecture, Hybrid cloud solutions, Python, Go and cooki
 
 
 # Podcasts 
+- [Co-host - Medabrim Pautach(HE)](https://open.spotify.com/episode/5owAC0ZKQZRH23yjBr0BAP](https://open.spotify.com/show/1lR9GVeDtZgkCM9gu0X4ZT)
 - [Kod Pautach  managing remote teams following the open sourece way (HE)](https://open.spotify.com/episode/5owAC0ZKQZRH23yjBr0BAP)
 
 
