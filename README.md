@@ -17,6 +17,9 @@ Ask me about Software Architecture, Hybrid cloud solutions, Python, Go and cooki
 - [Co-host - Medabrim Pautach(HE)](https://open.spotify.com/show/1lR9GVeDtZgkCM9gu0X4ZT)
 - [Kod Pautach  managing remote teams following the open sourece way (HE)](https://open.spotify.com/episode/5owAC0ZKQZRH23yjBr0BAP)
 
+# Public Speeking 
+- [GeekTime Evolve 2022 - Software Engineering Career Path 101](https://youtu.be/mkz4rwwh49k)
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ilan-pinto&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
